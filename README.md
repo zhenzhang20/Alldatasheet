@@ -15,6 +15,8 @@
 
 ![datasheet_excel](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-datasheet_excel.png)
 
+![datasheet_excel](https://raw.githubusercontent.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-datasheet_excel.png)
+
 ### 需求
 
 1. 根据Excel管理表格中“链接”列内容，下载产品的pdf格式datasheet文件
