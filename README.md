@@ -76,7 +76,7 @@ C:\Users\Administrator\Download>python download.py
 
 
 
+[View Blog](http://www.xiejiashan8.com/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/)
 [Fork/Star on Github](https://github.com/zhenzhang20/Alldatasheet)
-
 
 
