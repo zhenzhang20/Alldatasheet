@@ -15,7 +15,7 @@
 
 ![datasheet_excel](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-datasheet_excel.png)
 
-![datasheet_excel](https://raw.githubusercontent.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-datasheet_excel.png)
+
 
 ### 需求
 
@@ -72,7 +72,7 @@ C:\Users\Administrator\Download>python download.py
 
 查找位置如下： 
 
-![alldatasheet_download_post]((https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-alldatasheet_download_post.png)
+![alldatasheet_download_post](https://github.com/zhenzhang20/zhenzhang20.github.io/tree/master/2020/08/25/2020-08-25-Use-Python-Requests-Download-Alldatasheet/2020-08-25-alldatasheet_download_post.png)
 
 
 
